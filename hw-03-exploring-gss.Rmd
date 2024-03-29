@@ -1,5 +1,6 @@
 ---
 title: "HW 03 - Exploring the GSS"
+author: "Hailie Mathews"
 output: html_document
 ---
 
